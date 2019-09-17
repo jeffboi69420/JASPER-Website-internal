@@ -1,28 +1,42 @@
-nav {
-  text-align: center;
-}
 
-ul {
+
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: red;
-
+  text-align: center;
+  position: fixed;
 }
-
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h4 {
+text-align: center;
+}
 li {
   float: left;
 }
-
+.container {
+  text-align: center;
+}
 li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 14px;
   text-decoration: none;
 }
-
+h3 {
+  text-align: center;
+}
 li a:hover {
-  background-color: green;
+  background-color: red;
+}
+
+body {
+  background-image: url(rustbackground.png);
 }
