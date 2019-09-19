@@ -1,5 +1,5 @@
 
-
+/* this section of code is used to style the navigation bar*/
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -9,17 +9,19 @@ nav ul {
   position: ;
   font-family: 'Monda', sans-serif;
 }
+/* this section of code is used add a font and align to the center of the page all h1 text*/
 h1 {
   text-align: center;
   font-family: 'Squada One', cursive;
 }
 
-
+/* this section of code is used add a font and align to the center of the page all h2 text*/
 h2 {
   text-align: center;
   font-family: 'Squada One', cursive;
 
 }
+/* this section of code is used add a font and align to the center of the page all h4 text*/
 h4 {
   text-align: center;
   font-family: 'Squada One', cursive;
@@ -28,6 +30,7 @@ h4 {
 li {
   float: left;
 }
+/* this section of code is used to align to the center of the page all things in the .container div*/
 .container {
   text-align: center;
 }
@@ -38,12 +41,13 @@ li a {
   padding: 12px 14px;
   text-decoration: none;
 }
+/* this section of code is used add a font and align to the center of the page all h3 text*/
 h3 {
   text-align: center;
   font-family: 'Squada One', cursive;
 }
 li a:hover {
-  background-color: white;
+  background-color: red;
 }
 
 body {
