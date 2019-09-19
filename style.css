@@ -6,16 +6,24 @@ nav ul {
   padding: 0;
   overflow: hidden;
   text-align: center;
-  position: fixed;
+  position: ;
+  font-family: 'Monda', sans-serif;
 }
 h1 {
   text-align: center;
+  font-family: 'Squada One', cursive;
 }
+
+
 h2 {
   text-align: center;
+  font-family: 'Squada One', cursive;
+
 }
 h4 {
-text-align: center;
+  text-align: center;
+  font-family: 'Squada One', cursive;
+
 }
 li {
   float: left;
@@ -32,9 +40,10 @@ li a {
 }
 h3 {
   text-align: center;
+  font-family: 'Squada One', cursive;
 }
 li a:hover {
-  background-color: red;
+  background-color: white;
 }
 
 body {
